@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShapeBuilder", "ShapeBuilder\ShapeBuilder.csproj", "{F26A4BD5-43C8-4B4C-8E7C-EF63FFB15056}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F26A4BD5-43C8-4B4C-8E7C-EF63FFB15056}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F26A4BD5-43C8-4B4C-8E7C-EF63FFB15056}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F26A4BD5-43C8-4B4C-8E7C-EF63FFB15056}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F26A4BD5-43C8-4B4C-8E7C-EF63FFB15056}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5FD68806-0F86-4FB8-866C-6304FFE61B3A}
+	EndGlobalSection
+EndGlobal
